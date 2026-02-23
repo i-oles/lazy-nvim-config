@@ -1,0 +1,15 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+lazy-lock.json
+.lazy/
+.lazy
+plugin/
+packer_compiled.lua
+*.swp
+*.swo
