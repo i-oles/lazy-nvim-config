@@ -6,10 +6,10 @@ return {
     },
   },
   {
-    "snacks.nvim",
+    "folke/snacks.nvim",
     opts = {
       indent = {
-        scope = { enabled = false },
+        enabled = false,
       },
     },
   },
