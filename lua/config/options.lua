@@ -12,3 +12,4 @@ vim.o.softtabstop = 4
 vim.opt.listchars = {
   tab = "· ",
 }
+vim.g.lazyvim_python_lsp = "pyrefly"
